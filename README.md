@@ -1,2 +1,3 @@
-# java3
-this is my first github repository
+# Java3
+This is my first Git Repository
+Author-Shuvam jha
